@@ -27,4 +27,3 @@ function colombia(){
 	let tercero= document.getElementsByClassName("trivia")[0];
 	tercero.style.display="none";
 }
-
